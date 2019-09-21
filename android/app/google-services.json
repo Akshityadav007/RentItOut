@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058975808634",
+    "firebase_url": "https://rentitout-f7513.firebaseio.com",
+    "project_id": "rentitout-f7513",
+    "storage_bucket": "rentitout-f7513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058975808634:android:50e76a5c7e1f7700dc0fc3",
+        "android_client_info": {
+          "package_name": "co.rentitout.rio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058975808634-m4rg6vlf8cli8vg7s7vf82ku2t88akso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.rentitout.rio",
+            "certificate_hash": "2d955352944a55ccdadd8b978fee5fcf3ece2691"
+          }
+        },
+        {
+          "client_id": "1058975808634-cn1o2imc07eqgq6d546uobg0aauthuia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYuyCJultTmiT0_zZyayLo9Yqj9ehjQEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058975808634-cn1o2imc07eqgq6d546uobg0aauthuia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
